@@ -24,7 +24,7 @@ export const site = {
   // ─── Identity ──────────────────────────────────────────────────────────────
 
   /** Site title. Shown in the browser tab and navbar. */
-  title: 'Albert Einstein',
+  title: 'Memory Forge',
 
   /** Site description. Used in meta tags. */
   description: 'A simple, clean, and responsive Astro template for academics. Powered by as-folio.',
@@ -62,9 +62,9 @@ export const site = {
      * Subtitle below your name on the about page.
      * HTML is supported.
      */
-    subtitle: `Theoretical Physicist
+    subtitle: `Memory Forge
       &nbsp;·&nbsp;
-      <a href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Institute for Advanced Study</a>,
+      <a href="https://en.wikipedia.org/wiki/Institute_for_Advanced_Study">Digital Archive Project</a>,
       Princeton`,
 
     /**
