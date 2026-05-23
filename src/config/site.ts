@@ -27,7 +27,7 @@ export const site = {
   title: 'Memory Forge',
 
   /** Site description. Used in meta tags. */
-  description: 'A simple, clean, and responsive Astro template for academics. Powered by as-folio.',
+  description: '個人の記録・制作物・実験ログを静かに蓄積するためのWebサイト。',
 
   /**
    * Full URL of your deployed site (no trailing slash).
@@ -50,7 +50,7 @@ export const site = {
 
   author: {
     /** Full name shown in navbar, about page heading, and footer. */
-    name: 'Albert Einstein',
+   name: 'Memory Forge',
 
     /** Short email address (used in social links). */
     email: 'einstein@example.com',
